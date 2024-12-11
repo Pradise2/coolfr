@@ -26,7 +26,6 @@
     "react-toastify": "^10.0.5",
     "swiper": "^11.1.4",
     "tailwind-merge": "^2.3.0",
-    "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.1",
     "zustand": "^4.5.2"
   },
@@ -44,7 +43,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4",
+    "tailwindcss": "^3.4.16",
+    "tailwindcss-animate": "^1.0.7",
     "telegram-webapps-types": "^1.0.5",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
